@@ -1,4 +1,3 @@
-syntax:glob
 autom4te*
 config.cache
 config.log
@@ -18,6 +17,7 @@ SDL2_image.pc
 showimage
 
 # for Visual C++
+.vs
 Debug
 Release
 *.user
